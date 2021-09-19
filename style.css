@@ -3,10 +3,10 @@
 }
 @font-face {
   font-family: "bebas_neuebold";
-  src: url("../fonts/bebasneue_bold-webfont.html");
-  src: url("../fonts/bebasneue_bold-webfontd41dd41dd41dd41dd41dd41dd41dd41d.html?#iefix")
+  src: url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_bold-webfont.html");
+  src: url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_bold-webfontd41dd41dd41dd41dd41dd41dd41dd41d.html")
       format("embedded-opentype"),
-    url("../fonts/bebasneue_bold-webfont-2.html") format("woff2"),
+    url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_bold-webfont-2.html") format("woff2"),
     url("../fonts/bebasneue_bold-webfont.woff") format("woff"),
     url("../fonts/bebasneue_bold-webfont.ttf") format("truetype");
   font-weight: normal;
@@ -14,10 +14,10 @@
 }
 @font-face {
   font-family: "bebas_neue_regularregular";
-  src: url("../fonts/bebasneue_regular-webfont.html");
-  src: url("../fonts/bebasneue_regular-webfontd41dd41dd41dd41dd41dd41dd41dd41d.html?#iefix")
+  src: url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_regular-webfont.html");
+  src: url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_regular-webfontd41dd41dd41dd41dd41dd41dd41dd41d.html")
       format("embedded-opentype"),
-    url("../fonts/bebasneue_regular-webfont-2.html") format("woff2"),
+    url("https://raw.githack.com/boukhazaki/landing/main/bebasneue_regular-webfont-2.html") format("woff2"),
     url("../fonts/bebasneue_regular-webfont.woff") format("woff"),
     url("../fonts/bebasneue_regular-webfont.ttf") format("truetype");
   font-weight: normal;
@@ -25,12 +25,12 @@
 }
 @font-face {
   font-family: "et-line";
-  src: url("../fonts/et-line.html");
-  src: url("../fonts/et-lined41dd41dd41dd41dd41dd41dd41dd41d.html?#iefix")
+  src: url("https://raw.githack.com/boukhazaki/landing/main/et-line.html");
+  src: url("https://raw.githack.com/boukhazaki/landing/main/et-lined41dd41dd41dd41dd41dd41dd41dd41d.html")
       format("embedded-opentype"),
     url("../fonts/et-line.woff") format("woff"),
     url("../fonts/et-line.ttf") format("truetype"),
-    url("../fonts/et-line-2.html#et-line") format("svg");
+    url("https://raw.githack.com/boukhazaki/landing/main/et-line-2.html") format("svg");
   font-weight: normal;
   font-style: normal;
 }
